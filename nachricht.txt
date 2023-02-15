@@ -1,0 +1,5 @@
+Es gibt einen Abbruch im Programm. 
+
+Die Logdateien des Lösch-Scripts befinden sich im Anhang.
+
+Viele Grüße
